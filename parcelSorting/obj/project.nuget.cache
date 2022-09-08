@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VxxrwA8hyJIJu9xqiR6MgRtLltbgf/M86CYMjQGUKx4+8galImsNE19DrI8EPn7dm1/3XjFzoUqGZv51pGHNCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\opilane\\Desktop\\parcelSorting\\parcelSorting\\parcelSorting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\opilane\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
